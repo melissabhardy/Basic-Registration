@@ -1,0 +1,156 @@
+ body {
+     font-family: "Jost";
+     background-color: #edf2f4;
+ }
+
+ form {
+     background-color: #d9d9d9;
+     max-width: 800px;
+     margin-left: 20%;
+     margin-top: 10%;
+     padding: 5%;
+ }
+
+ h1 {
+     font-size: 35px;
+     background-color: #720026;
+     color: #edf2f4;
+     text-align: center;
+ }
+
+ label {
+     font-size: 25px;
+ }
+
+ .name {
+     padding-top: 5%;
+     padding-bottom: 5%;
+ }
+
+ .email {
+     padding-bottom: 5%;
+
+ }
+
+ .address {
+     padding-bottom: 5%;
+ }
+
+ .state {
+     padding-bottom: 5%;
+ }
+
+ .phone {
+     padding-bottom: 5%;
+ }
+
+ .username {
+     padding-bottom: 5%;
+ }
+
+ .password {
+     padding-bottom: 5%;
+ }
+
+ .birthdate {
+     padding-bottom: 5%;
+ }
+
+ .terms {
+     padding-bottom: 5%;
+ }
+
+ button {
+     padding: 10px;
+     font-size: 20px;
+     background-color: #720026;
+     color: #d9d9d9;
+     border-radius: 12px;
+     box-shadow: 5px 5px #c67d95;
+
+ }
+
+ button:hover {
+     background-color: #9a4863;
+
+ }
+
+ .butt {
+     display: block;
+     margin: 0 auto;
+     width: 150px;
+ }
+
+ #gend {
+     padding-left: 2%;
+ }
+
+ #fname {
+     width: 200px;
+     height: 30px;
+ }
+
+ #lname {
+     width: 200px;
+     height: 30px;
+ }
+
+ #ent_email {
+     width: 200px;
+     height: 30px;
+ }
+
+ #streetaddress {
+     width: 200px;
+     height: 30px;
+ }
+
+ #city {
+     width: 200px;
+     height: 30px;
+ }
+
+ #entstate {
+     width: 200px;
+     height: 30px;
+ }
+
+ #zip {
+     width: 200px;
+     height: 30px;
+ }
+
+ #phonenum {
+     width: 200px;
+     height: 30px;
+ }
+
+ #uname {
+     width: 200px;
+     height: 30px;
+ }
+
+ #entpassword {
+     width: 200px;
+     height: 30px;
+ }
+
+ #confpassword {
+     width: 200px;
+     height: 30px;
+ }
+
+ #birth {
+     width: 200px;
+     height: 30px;
+ }
+
+ #gender {
+     width: 100px;
+     height: 30px;
+ }
+
+ #checkbox {
+     transform: scale(2);
+     margin: 10px;
+ }
